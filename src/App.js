@@ -4,9 +4,9 @@ import "../styles/App.css";
 const App = () => {
   return (
     <div id="main">
-      <h1 data-ns-test="project-name">Clone of IndiaMART</h1>
+      <h1 data-ns-test="project-name">An app for testing</h1>
       <p data-ns-test="project-description">
-        I want to clone the IndiaMART app
+        This app is testing purpose only not so much functionality or any other use 
       </p>
     </div>
   );
